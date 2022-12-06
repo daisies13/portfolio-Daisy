@@ -1,5 +1,6 @@
-body{
+main{
   color: #40514e;
+  position:relative;
   font-family: "Inconsolata",monospace;
   font-weight: 600;
   margin:0;
